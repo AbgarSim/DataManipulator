@@ -3,7 +3,7 @@
 //
 struct data {
     int ID;
-    char name[20];
-    char description[50];
+    char name[40];
+    char description[500];
 };
 
