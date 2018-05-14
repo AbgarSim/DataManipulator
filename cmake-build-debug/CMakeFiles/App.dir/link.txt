@@ -1,0 +1,1 @@
+D:/cygwin/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/App.dir/main.cpp.o CMakeFiles/App.dir/Data.cpp.o  -o App.exe -Wl,--out-implib,libApp.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

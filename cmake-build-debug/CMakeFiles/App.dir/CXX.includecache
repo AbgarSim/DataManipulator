@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/ThinkpadX220-53/App/Data.cpp
+
+/cygdrive/c/Users/ThinkpadX220-53/App/main.cpp
+iostream
+-
+Data.cpp
+/cygdrive/c/Users/ThinkpadX220-53/App/Data.cpp
+

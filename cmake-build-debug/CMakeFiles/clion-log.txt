@@ -1,0 +1,4 @@
+C:\Users\ThinkpadX220-53\.CLion2017.3\system\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=D:/cygwin/bin/make.exe -DCMAKE_C_COMPILER=D:/cygwin/bin/gcc.exe -DCMAKE_CXX_COMPILER=D:/cygwin/bin/c++.exe -G "CodeBlocks - Unix Makefiles" /cygdrive/c/Users/ThinkpadX220-53/App
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/c/Users/ThinkpadX220-53/App/cmake-build-debug
